@@ -1,0 +1,10 @@
+/*  
+imports in app/styles/app.scss
+@import "base/variables";
+
+FOR FOUNDATION - SASS
+@import "base/foundation-settings";
+@import "foundation";
+@include foundation-everything;
+
+*/
