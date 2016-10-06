@@ -12,8 +12,8 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 	> git clone git@github.com:chugah/YouTube-Search-App.git
 	> cd YouTube-Search-App
-	> npm install
-	> npm start
+	> webpack
+	> node server.js
 ```
 
 ####Not Familiar with Git?#####
