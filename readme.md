@@ -4,7 +4,7 @@ Demo URL:  http://immense-sea-31156.herokuapp.com/
 
 ###Getting Started###
 
-There are two methods to get started with this repo: Git and file download.
+There are two ways to get started with this repo: Git and file download.
 
 ####Familiar with Git?#####
 Checkout this repo, install dependencies, then start the gulp process with the following:
@@ -21,5 +21,6 @@ Click [here](https://github.com/chugah/YouTube-Search-App) then download the .zi
 
 ```
 	> npm install
-	> npm start
+	> webpack
+        > node server.js
 ```
