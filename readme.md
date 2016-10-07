@@ -22,5 +22,5 @@ Click [here](https://github.com/chugah/YouTube-Search-App) then download the .zi
 ```
 	> npm install
 	> webpack
-        > node server.js
+	> node server.js
 ```
